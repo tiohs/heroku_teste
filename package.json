@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/HamiltonMassango/heroku_teste.git",
   "author": "HamiltonMassango <hamiltonsilva551@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  }
 }
