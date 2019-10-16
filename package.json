@@ -1,0 +1,9 @@
+{
+  "name": "heruko_teste",
+  "version": "1.0.0",
+  "description": "Testando o heruko ! ",
+  "main": "index.js",
+  "repository": "https://github.com/HamiltonMassango/heroku_teste.git",
+  "author": "HamiltonMassango <hamiltonsilva551@gmail.com>",
+  "license": "MIT"
+}
