@@ -6,6 +6,9 @@
   "repository": "https://github.com/HamiltonMassango/heroku_teste.git",
   "author": "HamiltonMassango <hamiltonsilva551@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev" : "nodemon src/server.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
